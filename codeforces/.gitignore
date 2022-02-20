@@ -1,0 +1,5 @@
+bits/
+.vscode/
+a.exe
+a.out
+*.txt
